@@ -14,5 +14,3 @@ if (number >= 100 && number <= 999)
     Console.WriteLine($"Последняя цифра числа {number} => {lastNumber}");
 }
 else Console.WriteLine("Некорректный ввод");
-
-

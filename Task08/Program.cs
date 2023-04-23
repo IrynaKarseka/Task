@@ -15,9 +15,3 @@ while (count <= number)
     }
     count++;
 }
-
-
-
-
-
-
